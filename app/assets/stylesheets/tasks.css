@@ -1,0 +1,21 @@
+.details {
+  background-color: lightgray;
+  padding: 12px;
+  border-radius: 4px;
+  text-align: justify left;
+  margin-top: 16px;
+}
+
+.solid {
+  margin: 0px 0px 24px 0px;
+  border-top: 3px solid #bbb;
+}
+
+p.text {
+  margin-bottom: 0px;
+}
+
+.form {
+  padding: 12px 0px 12px 0px;
+  margin-top: 16px;
+}
